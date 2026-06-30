@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Zokt 👋</h1>
+<h1 align="center">Привет, я Zokti 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web-разработчик;Люблю+чистый+код;HTML+%7C+CSS+%7C+JS+%7C+PHP;React+%7C+MySQL+%7C+Python" alt="Typing SVG" />
@@ -42,7 +42,7 @@
 ## 🐍 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИК&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zokti&theme=react-dark" />
 </p>
 
 <!--START_SECTION:waka-->
@@ -53,7 +53,7 @@
 ## 🧊 3D-граф контрибьюшенов
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/Zokti/Zokti/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## 📈 Метрики-дашборд
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/main/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/Zokti/Zokti/main/github-metrics.svg" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ## 👀 Счётчик посещений
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&label=Просмотров+профиля&color=58A6FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Zokti&label=Просмотров+профиля&color=58A6FF&style=for-the-badge" />
 </p>
 
 ---
