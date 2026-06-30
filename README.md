@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2IiB2aWV3Qm94PSIwIDAgMTIwMCA2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwRDExMTciIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI0E3OEJGQSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBEMTExNyIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB4PSItNDAwIiB5PSIwIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjYiIGZpbGw9InVybCgjZykiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgZnJvbT0iLTQwMCIgdG89IjEyMDAiIGR1cj0iNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwLjQgMCAwLjIgMSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSItNDAwOzEyMDAiLz4KICA8L3JlY3Q+Cjwvc3ZnPgo=" width="100%">
 
 ## 🚀&nbsp; Обо мне
 
@@ -36,7 +36,7 @@
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2IiB2aWV3Qm94PSIwIDAgMTIwMCA2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwRDExMTciIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI0E3OEJGQSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBEMTExNyIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB4PSItNDAwIiB5PSIwIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjYiIGZpbGw9InVybCgjZykiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgZnJvbT0iLTQwMCIgdG89IjEyMDAiIGR1cj0iNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwLjQgMCAwLjIgMSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSItNDAwOzEyMDAiLz4KICA8L3JlY3Q+Cjwvc3ZnPgo=" width="100%">
 
 ## 🛠️&nbsp; Технологии
 
@@ -46,17 +46,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆&nbsp; GitHub трофеи
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zokti&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2IiB2aWV3Qm94PSIwIDAgMTIwMCA2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwRDExMTciIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI0E3OEJGQSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBEMTExNyIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB4PSItNDAwIiB5PSIwIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjYiIGZpbGw9InVybCgjZykiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgZnJvbT0iLTQwMCIgdG89IjEyMDAiIGR1cj0iNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwLjQgMCAwLjIgMSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSItNDAwOzEyMDAiLz4KICA8L3JlY3Q+Cjwvc3ZnPgo=" width="100%">
 
 ## 🔥&nbsp; Streak статистика
 
@@ -66,7 +56,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2IiB2aWV3Qm94PSIwIDAgMTIwMCA2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwRDExMTciIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI0E3OEJGQSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBEMTExNyIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB4PSItNDAwIiB5PSIwIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjYiIGZpbGw9InVybCgjZykiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgZnJvbT0iLTQwMCIgdG89IjEyMDAiIGR1cj0iNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwLjQgMCAwLjIgMSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSItNDAwOzEyMDAiLz4KICA8L3JlY3Q+Cjwvc3ZnPgo=" width="100%">
 
 ## 🐍&nbsp; График активности
 
@@ -76,7 +66,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2IiB2aWV3Qm94PSIwIDAgMTIwMCA2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwRDExMTciIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI0E3OEJGQSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBEMTExNyIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB4PSItNDAwIiB5PSIwIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjYiIGZpbGw9InVybCgjZykiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgZnJvbT0iLTQwMCIgdG89IjEyMDAiIGR1cj0iNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwLjQgMCAwLjIgMSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSItNDAwOzEyMDAiLz4KICA8L3JlY3Q+Cjwvc3ZnPgo=" width="100%">
 
 ## 🧊&nbsp; 3D-граф контрибьюшенов
 
@@ -86,23 +76,13 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2IiB2aWV3Qm94PSIwIDAgMTIwMCA2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwRDExMTciIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI0E3OEJGQSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBEMTExNyIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB4PSItNDAwIiB5PSIwIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjYiIGZpbGw9InVybCgjZykiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgZnJvbT0iLTQwMCIgdG89IjEyMDAiIGR1cj0iNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwLjQgMCAwLjIgMSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSItNDAwOzEyMDAiLz4KICA8L3JlY3Q+Cjwvc3ZnPgo=" width="100%">
 
 ## 📈&nbsp; Метрики-дашборд
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Zokti/Zokti/main/github-metrics.svg" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💬&nbsp; Цитата дня
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
