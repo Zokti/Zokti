@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я [Твоё Имя] 👋</h1>
+<h1 align="center">Привет, я [Zokt] 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web-разработчик;Люблю+чистый+код;HTML+%7C+CSS+%7C+JS+%7C+PHP;React+%7C+MySQL+%7C+Python" alt="Typing SVG" />
